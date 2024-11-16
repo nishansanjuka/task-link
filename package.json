@@ -1,6 +1,6 @@
 {
   "name": "task-link",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": false,
   "description": "A powerful React context for managing async operations",
   "main": "dist/index.js",
