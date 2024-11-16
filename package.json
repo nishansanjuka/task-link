@@ -1,6 +1,6 @@
 {
   "name": "task-link",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "description": "A powerful React context for managing async operations",
   "main": "dist/index.js",
@@ -34,13 +34,13 @@
   ],
   "author": "Nipuna Nishan",
   "license": "MIT",
-  "homepage": "https://github.com/nishsansanjuka/task-link#readme",
+  "homepage": "https://github.com/nishansanjuka/task-link#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nishsansanjuka/task-link.git"
+    "url": "git+https://github.com/nishansanjuka/task-link.git"
   },
   "bugs": {
-    "url": "https://github.com/nishsansanjuka/task-link/issues"
+    "url": "https://github.com/nishansanjuka/task-link/issues"
   },
   "dependencies": {
     "@testing-library/react-hooks": "^8.0.1",

@@ -1,5 +1,11 @@
 # task-link
 
+## 1.0.2
+
+### Patch Changes
+
+- documentation
+
 ## 1.0.1
 
 ### Patch Changes
