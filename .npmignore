@@ -1,0 +1,92 @@
+# Tests
+/tests
+/__tests__
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+coverage/
+.nyc_output
+
+# Development configs
+.eslintrc
+.eslintignore
+.prettierrc
+.prettierignore
+.editorconfig
+.travis.yml
+.github
+tsconfig.json
+vitest.config.ts
+jest.config.js
+babel.config.js
+rollup.config.js
+webpack.config.js
+
+# Documentation
+docs/
+examples/
+CONTRIBUTING.md
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+SECURITY.md
+SUPPORT.md
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# CI
+.circleci/
+.travis.yml
+.jenkins
+.codeclimate.yml
+.codecov.yml
+.github/
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Misc
+.DS_Store
+*.log
+.env*
+.npmrc
+.cache
+.changeset
+
+# Development files
+*.map
+tsconfig.tsbuildinfo
+tsconfig.build
+.npmignore
+
+# Build process
+scripts/
+config/
+
+# Demo/Example files
+demo/
+example/
+examples/
+__mocks__/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Debug files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Project specific files
+TODO.md
+NOTES.md
